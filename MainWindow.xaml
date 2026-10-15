@@ -1,0 +1,13 @@
+﻿<Window x:Class="CraftStackingLauncher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Craft App Suite"
+        Icon="craft-icon.ico"
+        Height="0" Width="0"
+        WindowStyle="None" 
+        AllowsTransparency="True" 
+        Opacity="0"
+        Background="Transparent"
+        ResizeMode="NoResize"
+        ShowInTaskbar="True">
+</Window>
